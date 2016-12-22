@@ -1,3 +1,80 @@
+###NES
+
+	Battletoads
+
+###SNES
+
+	Castlevania Bloodlines
+
+###Sega Genesis
+	
+	Aladdin
+	Alien 3
+	Bare Knuckle 3 (Japan)
+	Batman
+	Batman Returns
+	Blades of Vengeance
+	Boogerman
+	Castle of Illusion Starring Mickey Mouse
+	Chuck Rock
+	Chuck 2: Son of Chuck
+	Columns
+	Comix Zone
+	Contra Hard Corps
+	Cool Spot
+	Demolition Man
+	Dick Tracy
+	Dr. Robotnik's Mean Bean Machine
+	Dynamite Headdy
+	Earthworm Jim
+	Earthworm Jim 2
+	Flashback
+	Gargoyles
+	General Chaos
+	Ghostbusters
+	Ghouls 'N Ghosts
+	Golden Axe
+	Golden Axe 2
+	Gunstar Heroes
+	Home Alone
+	James Pond 2
+	Jungle Book
+	Jurassic Park
+	Kid Chameleon
+	Mazin Saga
+	McDonald's Treasure Land Adventure
+	Mega Turrican
+	Mercs
+	Michael Jackson's Moonwalker
+	NHL 94
+	NHL 96
+	NHL 97
+	NHL 98
+	Outrun
+	Quackshot
+	Revenge of Shinobi
+	Ristar
+	Road Rash
+	Road Rash 2
+	Road Rash 3
+	Robocop vs Terminator
+	Shinobi 3
+	Soldiers of Fortune
+	Sonic & Knuckles
+	Sonic 
+	Sonic 2
+	Sonic 3
+	Splatterhouse 2
+	Streets of Rage
+	Streets of Rage 2
+	Streets of Rage 3
+	Sunset Riders
+	Super Street Fighter 2
+	Toejam and Earl
+	Vectorman
+	Vectorman 2
+	World of Illusion Starring Mickey Mouse & Donald Duck
+
 ###Playstation
 
 	Alien Trilogy
