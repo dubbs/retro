@@ -117,7 +117,6 @@
 	Batman Returns
 	Blades of Vengeance
 	Boogerman
-	Castle of Illusion Starring Mickey Mouse
 	Chuck Rock
 	Chuck 2: Son of Chuck
 	Columns
@@ -131,7 +130,6 @@
 	Earthworm Jim
 	Earthworm Jim 2
 	Flashback
-	Gargoyles
 	General Chaos
 	Ghostbusters
 	Ghouls 'N Ghosts
@@ -148,6 +146,8 @@
 	Mega Turrican
 	Mercs
 	Michael Jackson's Moonwalker
+	Mickey Mouse - Castle of Illusion
+	Mickey Mouse - World of Illusion
 	NHL 94
 	NHL 96
 	NHL 97
@@ -175,7 +175,6 @@
 	Toejam and Earl
 	Vectorman
 	Vectorman 2
-	World of Illusion Starring Mickey Mouse & Donald Duck
 
 ###N64
 
@@ -208,7 +207,7 @@
 	Quake 2
 	Rampage 2
 	Resident Evil 2
-	Shadow man
+	Shadow Man
 	Snowboard Kids
 	South Park
 	Spacestation Silicon Valley
@@ -225,6 +224,7 @@
 	Wave Race 64
 	Wayne Gretzky's 3D Hockey
 	Wayne Gretzky's 3D Hockey 98
+	WCW-NWO Revenge
 	Yoshi's Story
 
 ###Playstation
