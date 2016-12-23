@@ -181,6 +181,7 @@
 
 	1080 Snowboarding
 	Banjo Kazooie
+	Banjo Tooie
 	Conker's Bad Fur Day
 	Crusi'n Exotica
 	Crusi'n USA
@@ -204,8 +205,8 @@
 	Super Smash Bros
 	Turok 2
 	Wave Race 64
-	Wayne Gretsky's 3D Hockey
-	Wayne Gretsky's 3D Hockey 98
+	Wayne Gretzky's 3D Hockey
+	Wayne Gretzky's 3D Hockey 98
 	Yoshi's Story
 
 ###Playstation
