@@ -4,7 +4,48 @@
 
 ###SNES
 
-	Castlevania Bloodlines
+	Actraiser
+	Adventures of Batman and Robin
+	Batman Returns
+	Battletoads/Double Dragon
+	Chrono Trigger
+	Contra 3: Alien Wars
+	Donkey Kong Country
+	Donkey Kong Country 2
+	Donkey Kong Country 3
+	Indiana Jones' Greatest Adventure
+	Joe & Mac
+	Ken Griffey's Winning Run
+	Kirby Super Star
+	Knights of the Round
+	Legend of Zelda: A Link to the Past
+	Lion King
+	Mega Man 7
+	Mega Man X
+	Mr. Do!
+	NBA Jam TE
+	Porky Pig's Haunted Holiday
+	Road Runner's Death Valley Rally
+	Scooby Doo Mystery
+	Street Fighter 2 Turbo
+	Super Adventure Island
+	Super Bomberman
+	Super Bomberman 2
+	Super Castlevania 4
+	Super Mario All-Stars
+	Super Mario Kart
+	Super Mario World
+	Super Metroid
+	Super Punch Out!
+	Super Star Wars
+	Super Star Wars: Return of the Jedi
+	Super Star Wars: Empire Strikes Back
+	Tecmo Super Bowl
+	Teenage Mutant Ninja Turtles 4
+	Tetris and Dr. Mario
+	True Lies
+	Yoshi's Island: Super Mario World 2
+	Zombies Ate My Neighbors
 
 ###Sega Genesis
 	
