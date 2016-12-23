@@ -1,6 +1,67 @@
 ###NES
 
+	Adventure Island 3
+	Balloon Fight
+	Batman
+	Batman Returns
 	Battletoads
+	Bionic Commando
+	Blades of Steel
+	Blaster Master
+	Boulderdash
+	Bubble Bobble
+	Bugs Bunny Crazy Castle
+	Burgertime
+	Castlevania
+	Castlevania 2
+	Castlevania 3
+	Contra
+	Contra 2 (Super C)
+	Crystalis
+	Donkey Kong Classics
+	Double Dragon
+	Double Dragon 2
+	Double Dribble
+	Duck Tales
+	Dusty Diamonds Softball All-Stars
+	Excitebike
+	Flintstones
+	G.I. Joe
+	Ghosts 'N Goblins
+	Guerilla War
+	Ice Climber
+	Ice Hockey
+	Ikari Warriors
+	Karnov
+	Lolo, Adventures of
+	Mega Man
+	Mega Man 2
+	Mega Man 3
+	Mega Man 4
+	Mega Man 5
+	Mega Man 6
+	Metroid
+	Micro Machines
+	Mike Tyson's Punch-Out!!
+	Ninja Gaiden
+	Ninja Gaiden 2
+	Ninja Gaiden 3
+	Popeye
+	Punch-Out!!
+	Rad Racer
+	River City Ransom
+	Shatterhand
+	Super Mario Bros
+	Super Mario Bros 2
+	Super Mario Bros 3
+	Super Off Road
+	Tecmo Bowl
+	Tecmo Super Bowl
+	Teenage Mutant Ninja Turtles 2
+	Teenage Mutant Ninja Turtles 3
+	Tetris (Tengen)
+	Zelda
+	Zelda 2
 
 ###SNES
 
