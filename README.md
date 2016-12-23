@@ -186,24 +186,42 @@
 	Crusi'n Exotica
 	Crusi'n USA
 	Crusi'n World
+	Destruction Derby 64
 	Diddy Kong Racing
 	Donkey Kong 64
 	Doom 64
 	Excitebike 64
 	F-Zero X
 	Goldeneye 007
-	Legend of Zelda
+	Golden Nugget 64
+	Jet Force Jemini
+	Kirby 64
+	Legend of Zelda: Ocarina of Time
+	Legend of Zelda: Majora's Mask
 	Mario Golf
 	Mario Kart 64
 	Mario Party
+	Mario Party 2
+	Mario Party 3
+	Paper Mario
 	Perfect Dark
 	Quake 2
+	Rampage 2
+	Resident Evil 2
+	Shadow man
 	Snowboard Kids
+	South Park
+	Spacestation Silicon Valley
 	Star Wars: Rogue Squadron
 	Star Wars: Shadows of the Empire
 	Super Mario 64
 	Super Smash Bros
+	Tony Hawk's Pro Skater
+	Tony Hawk's Pro Skater 2
+	Tony Hawk's Pro Skater 3
+	Turok
 	Turok 2
+	Turok 3
 	Wave Race 64
 	Wayne Gretzky's 3D Hockey
 	Wayne Gretzky's 3D Hockey 98
@@ -249,6 +267,5 @@
 	Tomb Raider 3
 	Tomba
 	Tomba 2
-	Tony Hawk's Pro Skater
 	Twisted Metal
 	Twisted Metal 2
