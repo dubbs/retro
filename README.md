@@ -42,12 +42,12 @@
 	Mega Man 6
 	Metroid
 	Micro Machines
-	Mike Tyson's Punch-Out!!
 	Ninja Gaiden
 	Ninja Gaiden 2
 	Ninja Gaiden 3
 	Popeye
 	Punch-Out!!
+	Punch-Out!! (Mike Tyson's)
 	Rad Racer
 	River City Ransom
 	Shatterhand
@@ -176,6 +176,37 @@
 	Vectorman
 	Vectorman 2
 	World of Illusion Starring Mickey Mouse & Donald Duck
+
+###N64
+
+	1080 Snowboarding
+	Banjo Kazooie
+	Conker's Bad Fur Day
+	Crusi'n Exotica
+	Crusi'n USA
+	Crusi'n World
+	Diddy Kong Racing
+	Donkey Kong 64
+	Doom 64
+	Excitebike 64
+	F-Zero X
+	Goldeneye 007
+	Legend of Zelda
+	Mario Golf
+	Mario Kart 64
+	Mario Party
+	Perfect Dark
+	Quake 2
+	Snowboard Kids
+	Star Wars: Rogue Squadron
+	Star Wars: Shadows of the Empire
+	Super Mario 64
+	Super Smash Bros
+	Turok 2
+	Wave Race 64
+	Wayne Gretsky's 3D Hockey
+	Wayne Gretsky's 3D Hockey 98
+	Yoshi's Story
 
 ###Playstation
 
